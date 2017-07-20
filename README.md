@@ -10,3 +10,5 @@ The schedule of this tutorial is as follows:
 2. **9:30 - 10:30:** Part I: n-dimensional arrays, auto differentiation, linear regression  and convolution neural network
 3. **10:30 - 11:00:** Coffee break
 4. **11:00 - 12:00:** Part II: residual networks, single shot multibox detector, and multi-gpu/machine training. 
+
+(We will update the links later on, please check it back)
