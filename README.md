@@ -2,44 +2,11 @@
 
 MXNet is widely used in production environments owing to its strong reputation for speed. Now with `gluon`, MXNet’s new imperative interface, doing research in MXNet is easy. 
 
-In this tutorial we will walk through how to use Gluon to implement various algorithm, ranging from basic linear regression to object detection. 
+In this tutorial, we will walk through how to use `gluon` to implement algorithms ranging from basic linear regression to object detection. We will present every concept in details, no deep learning background is required to attend. We encourage the audience to bring their laptops to have a hands-on experience with `gluon`. 
 
+The schedule of this tutorial is as follows:
 
-
-Gluon 
-
-You can use the [editor on GitHub](https://github.com/mli/cvpr17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mli/cvpr17/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. **9:00 - 9:30:** Introduction to MXNet and Gluon
+2. **9:30 - 10:30:** Part I: n-dimensional arrays, auto differentiation, linear regression  and convolution neural network
+3. **10:30 - 11:00:** Coffee break
+4. **11:00 - 12:00:** Part II: residual networks, single shot multibox detector, and multi-gpu/machine training. 
