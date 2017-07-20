@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the MXNet/Gluon Tutorial
+
+MXNet is widely used in production environments owing to its strong reputation for speed. Now with `gluon`, MXNet’s new imperative interface, doing research in MXNet is easy. 
+
+In this tutorial we will walk through how to use Gluon to implement various algorithm, ranging from basic linear regression to object detection. 
+
+
+
+Gluon 
 
 You can use the [editor on GitHub](https://github.com/mli/cvpr17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
