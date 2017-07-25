@@ -4,13 +4,22 @@ MXNet is widely used in production environments owing to its strong reputation f
 
 <img src="gluon.png" width=500px />
 
-In this tutorial, we will walk through how to use `gluon` to implement algorithms ranging from basic linear regression to object detection. We will present every concept in details, no deep learning background is required to attend. We encourage the audience to bring their laptops to have a hands-on experience with `gluon`. 
+In this tutorial, we will walk through how to use `gluon` to implement various algorithms. We will present every concept in details, no deep learning background is required to attend. We encourage the audience to bring their laptops to have a hands-on experience with `gluon`. 
+
 
 The schedule of this tutorial is as follows:
 
-1. **9:00 - 9:30:** Introduction to MXNet and Gluon
-2. **9:30 - 10:30:** Part I: n-dimensional arrays, auto differentiation, linear regression  and convolution neural network
+1. **9:00 - 9:30:** What is Gluon, why? [slides]
+2. **9:30 - 10:30:** Part I:
+    - 15min: n-dimensional arrays [notebook](http://gluon.mxnet.io/P01-C02-ndarray.html)
+    - 15min: auto differentiation [notebook](http://gluon.mxnet.io/P01-C05-autograd.html)
+    - 15min: linear regression [notebook I](http://gluon.mxnet.io/P02-C01-linear-regression-scratch.html) [notebook II](http://gluon.mxnet.io/P02-C02-linear-regression-gluon.html)
+    - 15min: convolution neural networks [notebook I](http://gluon.mxnet.io/P04-C01-cnn-scratch.html) [notebook II](http://gluon.mxnet.io/P04-C02-cnn-gluon.html) 
 3. **10:30 - 11:00:** Coffee break
-4. **11:00 - 12:00:** Part II: residual networks, single shot multibox detector, and multi-gpu/machine training. 
+4. **11:00 - 12:00:** Part II: 
+    - 10min: hybridizing imperative and symbolic programming [notebook](http://gluon.mxnet.io/P14-C05-hybridize.html)
+    - 10min: MXNet backend engine [slides]
+    - 15min: multi-GPU and multi-machine [slides]
+    - 15min: training with multi-GPUs [notebook I](http://gluon.mxnet.io/P14-C02-multiple-gpus-scratch.html) [notebook II](http://gluon.mxnet.io/P14-C03-multiple-gpus-gluon.html)
+    - 5min: training with multi-machines [notebook](http://gluon.mxnet.io/P14-C03-multiple-gpus-gluon.html)
 
-(We will update the links later on, please check it back)
