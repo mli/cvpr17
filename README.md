@@ -6,7 +6,7 @@ MXNet is widely used in production environments owing to its strong reputation f
 
 In this tutorial, we will walk through how to use `gluon` to implement various algorithms. We will present every concept in details, no deep learning background is required to attend. We encourage the audience to bring their laptops to have a hands-on experience with `gluon`. 
 
-This tutorial is on **9AM--12AM, 7/26 Wed**, at **level 3, convention center**. The detailed schedule is as follows:
+This tutorial is on **9AM--12AM, 7/26 Wed**, at **315, convention center**. The detailed schedule is as follows:
 
 1. **9:00 - 9:30:** What is Gluon, why? [slides](gluon_part1.pdf)
 2. **9:30 - 10:30:** Part I:
