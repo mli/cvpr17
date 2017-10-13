@@ -1,5 +1,9 @@
 ## An Introduction to MXNet/Gluon
 
+**Note**: The new version is availabe at:
+- English: http://gluon.mxnet.io/
+- 中文: https://zh.gluon.ai/
+
 MXNet is widely used in production environments owing to its strong reputation for speed. Now with `gluon`, MXNet’s new imperative interface, doing research in MXNet is easy. 
 
 ![](gluon.png)
